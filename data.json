@@ -16,6 +16,10 @@
     "base": "0x24EB5C",
     "offsets": ["0x224"]
   },
+    "ui_select_move": {
+    "base": "0x24C18C",
+    "offsets": ["0x2E8"]
+  },
   "offset_ten_nv": "0x2AC9B8",
   "offset_ten_nv_alt": ["0x2B58A8", "0x45F50D"]
 }
