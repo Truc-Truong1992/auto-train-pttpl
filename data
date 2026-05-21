@@ -1,1 +1,9 @@
-
+{
+  "is_active": true,
+  "version": "1.0.0",
+  "message": "Chào mừng bạn đến với 2TStudio. Hiện tại auto đang bảo trì, vui lòng liên hệ với admin để biết thêm chi tiết",
+  "licensed_machines": {
+    "006vffWXH3TJ60ZZdRECJNMN": ""
+  },
+  "ptr_map": ["0x2946AF4"],
+}
