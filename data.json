@@ -14,7 +14,7 @@
   },
   "ui_input_y": {
     "base": "0x24EB5C",
-    "offsets": ["0x188"]
+    "offsets": ["0x224"]
   },
   "offset_ten_nv": "0x2AC9B8",
   "offset_ten_nv_alt": ["0x2B58A8", "0x45F50D"]
