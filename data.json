@@ -8,7 +8,9 @@
   "ptr_map": ["0x2946AF4"],
   "ptr_x": ["0x460E64"],
   "ptr_y": ["0x460E68"],
-  "ptr_x_find": ["0x298C3E8"],
+  "ptr_x_find": ["0x298C330"],
+  "ptr_y_find": ["0x298C334"],
+  "ptr_find_stt": ["0x43AF84"],
   "offset_ten_nv": "0x2AC9B8",
   "offset_ten_nv_alt": ["0x2B58A8","0x45F50D"]
 }
