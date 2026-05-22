@@ -7,11 +7,11 @@
     "005iBZ7VXWrHEjH1xRiGJNg2": "",
     "003NqbzWNMKFvXDtCn52FEvz": "2026-5-23"
   },
-  "ptr_map": ["0x2946AF4"],
-  "ptr_x": ["0x460E64"],
-  "ptr_y": ["0x460E68"],
-  "ptr_tdd_stt": ["0x440648"],
-  "ptr_ttd_stt": ["0x43AF84"],
+  "ptr_map": ["0x29A9C04"],
+  "ptr_x": ["0x4C2538"],
+  "ptr_y": ["0x4C253C"],
+  "ptr_tdd_stt": ["0x4A37A8"],
+  "ptr_ttd_stt": ["0x49E0E4"],
   "ui_input_x": {
     "base": "0x24EB5C",
     "offsets": ["0x184"]
@@ -25,5 +25,5 @@
     "offsets": ["0x2E4"]
   },
   "offset_ten_nv": "0x2AC9B8",
-  "offset_ten_nv_alt": ["0x2B58A8", "0x45F50D"]
+  "offset_ten_nv_alt": ["0x2B58A8","0x45F50D","0x2B26D0"],
 }
