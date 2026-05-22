@@ -8,6 +8,7 @@
   "ptr_map": ["0x2946AF4"],
   "ptr_x": ["0x460E64"],
   "ptr_y": ["0x460E68"],
+  "ptr_tdd_stt": ["0x440648"],
   "ui_input_x": {
     "base": "0x24EB5C",
     "offsets": ["0x184"]
