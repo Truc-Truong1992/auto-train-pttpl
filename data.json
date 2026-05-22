@@ -13,16 +13,16 @@
   "ptr_tdd_stt": ["0x4A37A8"],
   "ptr_ttd_stt": ["0x49E0E4"],
   "ui_input_x": {
-    "base": "0x24EB5C",
-    "offsets": ["0x184"]
+    "base": "0x2B1C88",
+    "offsets": ["0x3C", "0x38", "0x38", "0x38", "0x40", "0x18C"]
   },
   "ui_input_y": {
-    "base": "0x24EB5C",
-    "offsets": ["0x224"]
+    "base": "0x2B1C88",
+    "offsets": ["0x3C", "0x38", "0x38", "0x38", "0x40", "0x230"]
   },
     "ui_select_move": {
-    "base": "0x24C18C",
-    "offsets": ["0x2E4"]
+    "base": "0x2AF1E8",
+    "offsets": ["0x2F4"]
   },
   "offset_ten_nv": "0x2AC9B8",
   "offset_ten_nv_alt": ["0x2B58A8","0x45F50D","0x2B26D0"],
