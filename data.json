@@ -20,7 +20,11 @@
     "base": "0x2B2C88",
     "offsets": ["0x230"]
   },
-    "ui_select_move": {
+  "ui_select_diem_den_map": {
+    "base": "0x2B10FC",
+    "offsets": ["0x230","0x3C","0x38","0x38","0x38","0x44","0x3C","0xF5C"]
+  },
+  "ui_select_move": {
     "base": "0x2B01E8",
     "offsets": ["0x2F4"]
   },
