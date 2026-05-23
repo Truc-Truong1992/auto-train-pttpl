@@ -7,21 +7,21 @@
     "005iBZ7VXWrHEjH1xRiGJNg2": "",
     "003NqbzWNMKFvXDtCn52FEvz": "2026-5-23"
   },
-  "ptr_map": ["0x29A9C04"],
-  "ptr_x": ["0x4C2538"],
-  "ptr_y": ["0x4C253C"],
-  "ptr_tdd_stt": ["0x4A37A8"],
-  "ptr_ttd_stt": ["0x49E0E4"],
+  "ptr_map": ["0x29AAC04"],
+  "ptr_x": ["0x4C3538"],
+  "ptr_y": ["0x4C353C"],
+  "ptr_tdd_stt": ["0x4A47A8"],
+  "ptr_ttd_stt": ["0x49F0E4"],
   "ui_input_x": {
-    "base": "0x2B1C88",
-    "offsets": ["0x3C", "0x38", "0x38", "0x38", "0x40", "0x18C"]
+    "base": "0x2B01DC",
+    "offsets": ["0x84"]
   },
   "ui_input_y": {
-    "base": "0x2B1C88",
-    "offsets": ["0x3C", "0x38", "0x38", "0x38", "0x40", "0x230"]
+    "base": "0x2B2C88",
+    "offsets": ["0x230"]
   },
     "ui_select_move": {
-    "base": "0x2AF1E8",
+    "base": "0x2B01E8",
     "offsets": ["0x2F4"]
   },
   "offset_ten_nv": "0x2B36D0"
